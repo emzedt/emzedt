@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaidan</h1>
-<h3 align="center">A web developer, UI/UX designer, system analyst, and cloud engineer from Indonesia</h3>
+<h3 align="center">A web developer, UI/UX designer, system analyst, data engineer, and cloud engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emzedt&label=Profile%20views&color=0e75b6&style=flat" alt="emzedt" /> </p>
 
